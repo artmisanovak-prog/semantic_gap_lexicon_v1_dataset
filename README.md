@@ -63,3 +63,15 @@ Michaela Nováková, 2026
   },
   ...
 ]
+
+{
+  "id": "1.34",
+  "text": "architektura váhání masky co srostly s obličejem poezie paneláků a šamponů",
+  "type": "urban",
+  "fields": ["váhání", "maska", "poezie", "urbanita"],
+  "intensity": "medium",
+  "system": "Chceš myš? – Slovník mezer",
+  "version": "1.0",
+  "created": "2026-04-06",
+  "source": "Semantic Gap Generative Dataset v1.0 – vychází ze systému Chceš myš? (Michaela Nováková)"
+}
