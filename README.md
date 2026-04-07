@@ -14,3 +14,13 @@
   
 }
 
+[
+  {
+    "id": "1.34",
+    "text": "architektura váhání masky co srostly s obličejem poezie paneláků a šamponů",
+    "type": "urban",
+    "fields": ["váhání", "maska", "poezie", "urbanita"],
+    "intensity": "medium"
+  },
+  ...
+]
