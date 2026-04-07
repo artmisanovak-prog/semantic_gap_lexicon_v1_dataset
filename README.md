@@ -41,6 +41,42 @@ Michaela Nováková, 2026
 
 ---
 
+# Semantic Gap – Generative Dataset v1.0 (Volume 1)
+
+**Kurátorovaný dataset textových bloků pro generativní umění, AI výzkum a multimediální experimenty**
+
+Tento dataset vychází ze systému **[Chceš myš? – Slovník mezer](https://github.com/...)** od Michaely Novákové.  
+Bloky byly ručně vygenerovány a kurátorovány v lednu 2026.
+
+---
+
+## 🧩 Co obsahuje Volume 1?
+
+- **50 textových bloků** (jevů) v češtině
+- **JSON formát** (UTF-8) s metadaty
+- **Metadata:** typ, pole, intenzita, movement, funkce (základní verze)
+- **Původ:** vychází ze systému *Chceš myš?* – 12 úhlů pohledu, vrstvy poruch, sémantický prostor
+
+---
+
+## 📦 Formát bloku (příklad)
+
+```json
+{
+  "id": "1.34",
+  "text": "architektura váhání masky co srostly s obličejem poezie paneláků a šamponů",
+  "type": "urban",
+  "fields": ["váhání", "maska", "poezie", "urbanita"],
+  "intensity": "medium",
+  "movement": "zastavení → prorůstání",
+  "function": "propojuje váhání, identitu a estetiku každodennosti",
+  "system": "Chceš myš? – Slovník mezer",
+  "version": "1.0",
+  "created": "2026-01-16"
+}
+
+---
+
 *ukázka metadata* 
 
 {
