@@ -1,4 +1,4 @@
-# semantic_gap_lexicon_v1
+# semantic_gap_lexicon_v1_fenomenal
 
 ---
 
