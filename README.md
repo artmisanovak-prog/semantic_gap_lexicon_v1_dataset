@@ -2,6 +2,45 @@
 
 ---
 
+
+# Semantic Gap – Generative Dataset v1.0
+
+**Kurátorovaný dataset textových bloků pro generativní umění, AI výzkum a multimediální experimenty.**
+
+## Ukázka (zdarma)
+[odkaz na sample.json]
+
+## Co kupuješ?
+- 50 bloků (Basic) nebo 90 bloků (Pro/Research)
+- JSON + TXT formát
+- Metadata pro filtrování (typ, pole, intenzita)
+- (Pro verze) multimodální příklady (prompty pro vizuál, game design, zvuk, pohyb)
+
+## Ceny a licence
+| Verze | Cena | Obsah |
+|-------|------|-------|
+| Basic | $49 | 50 bloků, základní metadata, osobní/nekomerční použití |
+| Pro | $149 | 90 bloků + multimodální příklady + komerční licence |
+| Research | $349 | vše + licence pro trénování AI modelů |
+
+## Technické specifikace
+- Formát: JSON (UTF-8)
+- Velikost: cca 200 KB (Basic), 800 KB (Pro)
+- Dodáváno jako ZIP soubor
+
+## Použití
+- Vizuální generování (prompty pro Midjourney, DALL-E)
+- Herní design (questy, mechaniky)
+- Zvuková tvorba (rytmické struktury, ambience)
+- Pohyb a tanec (choreografické klíče)
+- AI výzkum (testování paradigmat)
+
+## Autor
+Michaela Nováková, 2026
+[chcesmys@gmail.con]
+
+---
+
 *ukázka metadata* 
 
 {
