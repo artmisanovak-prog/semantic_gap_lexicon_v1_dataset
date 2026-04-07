@@ -11,5 +11,6 @@
 -  **"type":** "critical",
 -  **"intensity":** 0.7,
 -  **"field"**: ["identity", "time", "transformation"]
+  
 }
 
